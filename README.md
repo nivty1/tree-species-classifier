@@ -94,7 +94,7 @@ tree-species-classifier/
 * 🌿 Botany & environmental science projects
 * 🧪 Academic AI/ML demonstrations
 * 🏕️ Nature education tools
-* 🏫 Student capstone or BCA projects
+* 🏫 Student capstone 
 
 ---
 
