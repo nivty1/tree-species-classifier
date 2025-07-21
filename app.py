@@ -756,8 +756,8 @@ else:
 # === FOOTER ===
 st.markdown("""
 <div class="footer">
-    <h3>👨‍💻 Developed by Deepak Singh</h3>
-    <p>Full Stack Developer & AI Enthusiast</p>
+    <h3>👨‍💻 Developed by Nivesh Tyagi </h3>
+    <p>  ML Developer & AI Enthusiast</p>
     <div class="developer-info">
         <a href="http://linkedin.com/in/𝐍𝐢𝐯𝐞𝐬𝐡-𝐓𝐲𝐚𝐠𝐢-5b2159203" target="_blank" class="social-link">
             💼 LinkedIn
