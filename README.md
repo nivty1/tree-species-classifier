@@ -1,3 +1,11 @@
+
+Perfect! 🎉  app is now live on Streamlit Cloud:
+
+👉 tree-species-classifier Streamlit App
+https://tree-species-classifier-egikxfymibyeggbpeneac6.streamlit.app/
+
+
+
 ## 📄 `README.md`
 
 ```markdown
