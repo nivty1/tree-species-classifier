@@ -1,0 +1,40 @@
+# === Python Bytecode ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Virtual Environment ===
+venv/
+.env
+.venv/
+
+# === Streamlit Secrets ===
+.streamlit/secrets.toml
+
+# === Image Uploads and Outputs ===
+images/
+*.jpg
+*.jpeg
+*.png
+
+# === OS / Editor Files ===
+.DS_Store
+Thumbs.db
+
+# === VS Code Settings ===
+.vscode/
+
+# === Logs and Caches ===
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Build Files ===
+build/
+dist/
+*.egg-info/
+
+# === Jupyter and IPython ===
+.ipynb_checkpoints/
